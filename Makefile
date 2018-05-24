@@ -9,10 +9,11 @@ pre_commit_check_all:
 	make pre_commit_check_codewars
 
 build_hackerrank:
-	cd components/hackerrank && make install_dev
+	cd components/hackerrank && make build
 
 build_codewars:
-	cd components/codewars && make install_dev
+	cd components/codewars && make build
+
 build_all:
 	make build_hackerrank
 	make build_codewars
