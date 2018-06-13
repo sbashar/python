@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pylint = "*"
+yapf = "*"
+mypy = "*"
+pytest = "*"
+pytest-cov = "*"
+mock = "*"
+sphinx = "*"
 
 [dev-packages]
 
