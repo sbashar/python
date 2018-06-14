@@ -22,6 +22,6 @@ build_codewars:
 	cd components/practice && make build
 
 build_all:
+	make build_practice
 	make build_hackerrank
 	make build_codewars
-	make build_practice
