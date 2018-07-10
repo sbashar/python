@@ -18,7 +18,7 @@ build_hackerrank:
 build_codewars:
 	cd components/codewars && make build
 
-build_codewars:
+build_practice:
 	cd components/practice && make build
 
 build_all:
