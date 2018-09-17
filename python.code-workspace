@@ -2,15 +2,15 @@
 	"folders": [
 		{
 			"name": "Hackerrank",
-			"path": "components/hackerrank"
+			"path": "hackerrank"
 		},
 		{
 			"name": "Codewars",
-			"path": "components/codewars"
+			"path": "codewars"
 		},
 		{
 			"name": "Practice",
-			"path": "components/practice"
+			"path": "practice"
 		}
 	],
 	"settings": {
