@@ -14,4 +14,5 @@ check_hackerrank:
 	make run_linter
 	make run_formatter
 	make run_test
+	make run_test_with_cov
 
