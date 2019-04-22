@@ -1,27 +1,6 @@
 pre_commit_check_hackerrank:
 	cd hackerrank && make check_hackerrank
 
-pre_commit_check_codewars:
-	cd codewars && make check_codewars
-
-pre_commit_check_practice:
-	cd practice && make check_practice
-
 pre_commit_check_all:
 	make pre_commit_check_hackerrank
-	make pre_commit_check_codewars
-	make pre_commit_check_practice
 
-build_hackerrank:
-	cd hackerrank && make build
-
-build_codewars:
-	cd codewars && make build
-
-build_practice:
-	cd practice && make build
-
-build_all:
-	make build_practice
-	make build_hackerrank
-	make build_codewars
