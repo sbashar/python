@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/saydul/.local/share/virtualenvs/python-vSHTIu8I/bin/python",
+    "python.unitTest.pyTestArgs": [
+        "tests"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true
+}
