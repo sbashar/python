@@ -8,6 +8,7 @@ pylint = "*"
 pytest = "*"
 yapf = "*"
 sphinx = "*"
+pytest-cov = "*"
 
 [packages]
 
