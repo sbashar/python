@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python code'
+project = 'Python Code'
 copyright = '2019, Saydul Bashar'
 author = 'Saydul Bashar'
 

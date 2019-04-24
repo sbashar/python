@@ -7,5 +7,6 @@
     "python.testing.nosetestsEnabled": false,
     "python.testing.pyTestEnabled": true,
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "restructuredtext.confPath": "${workspaceFolder}/source"
 }

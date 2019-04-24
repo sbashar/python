@@ -1,9 +1,9 @@
-.. Python code documentation master file, created by
-   sphinx-quickstart on Wed Apr 24 20:46:18 2019.
+.. Python Code documentation master file, created by
+   sphinx-quickstart on Wed Apr 24 23:00:50 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Python code's documentation!
+Welcome to Python Code's documentation!
 =======================================
 
 .. toctree::
