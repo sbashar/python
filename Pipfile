@@ -7,7 +7,6 @@ verify_ssl = true
 pylint = "*"
 pytest = "*"
 yapf = "*"
-sphinx = "*"
 pytest-cov = "*"
 
 [packages]
