@@ -1,14 +1,14 @@
 run_linter:
-	pipenv run pylint src tests
+	ruff check src tests
 
 run_formatter:
-	pipenv run yapf -d -r -p src tests
+	ruff format src tests
 
 run_test:
-	pipenv run pytest tests
+	pytest tests
 
 run_test_with_cov:
-	pipenv run pytest tests --cov=src
+	pytest tests --cov=src
 
 check_all:
 	make run_linter

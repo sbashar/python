@@ -1,12 +1,7 @@
 {
-    "python.pythonPath": "/home/saydul/.local/share/virtualenvs/python-vSHTIu8I/bin/python",
-    "python.testing.pyTestArgs": [
+    "python.testing.pytestArgs": [
         "tests"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.nosetestsEnabled": false,
-    "python.testing.pyTestEnabled": true,
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "restructuredtext.confPath": "${workspaceFolder}/source"
+    "python.testing.pytestEnabled": true
 }
