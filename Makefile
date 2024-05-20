@@ -1,5 +1,5 @@
 run_linter:
-	ruff check src tests
+	ruff check --fix src tests
 
 run_formatter:
 	ruff format src tests
